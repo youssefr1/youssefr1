@@ -6,12 +6,14 @@
 
 <br />
 
-<a href="[https://youssefr1.github.io/Youssef-Portfolio-Website/](https://youssefr1.github.io/Youssef-Portfolio-Website/)">
+<a href="https://youssefr1.github.io/Youssef-Portfolio-Website/">
   <img src="https://img.shields.io/badge/Portfolio-005291?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/youssef-ramadan11/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:youssframa09@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -20,17 +22,17 @@
 
 ---
 
-## About Me
+# 👋 About Me
 
-I am a Flutter & Mobile Software Engineer based in Cairo, Egypt.
+I am a **Flutter & Mobile Software Engineer** based in **Cairo, Egypt**.
 
-I build cross-platform mobile applications with a focus on clean architecture, maintainable state management, responsive UI, and reliable API integration.
+I build cross-platform mobile applications with a focus on **Clean Architecture**, **BLoC**, **responsive UI**, and **REST API integration**.
 
-I care about simple structure, readable code, and mobile products that can grow without turning into a mess.
+I enjoy transforming ideas into scalable, maintainable mobile products while following clean coding principles and modern software engineering practices.
 
 ---
 
-## Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -38,26 +40,22 @@ I care about simple structure, readable code, and mobile products that can grow 
 
 </div>
 
-<br />
+<br>
 
-<div align="center">
-
-| Area | Tools |
-|---|---|
-| Mobile | Flutter, Dart |
-| State Management | BLoC, Cubit, Provider |
-| Architecture | Clean Architecture, MVVM, Dependency Injection |
-| Backend Integration | REST APIs, Dio, Firebase, Authentication |
-| Local Storage | Hive |
-| Workflow | Git, GitHub, GitLab, Postman, Figma |
-
-</div>
+| Category | Technologies |
+|----------|--------------|
+| 📱 Mobile | Flutter, Dart |
+| 🧠 State Management | BLoC, Cubit, Provider |
+| 🏛 Architecture | Clean Architecture, MVVM, Dependency Injection |
+| 🔗 Backend | REST APIs, Dio, Firebase Authentication |
+| 💾 Local Storage | Hive |
+| 🛠 Tools | Git, GitHub, GitLab, Postman, Figma |
 
 ---
 
-## How I Build
+# 🏗 How I Build
 
-```txt
+```text
 Feature first.
 Architecture second.
 Over-engineering never.
