@@ -1,48 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001A33,30:005291,70:00A8E8,100:00C2FF&text=Youssef%20Ramadan&fontColor=ffffff&fontSize=52&fontAlignY=35&animation=twinkling&desc=Flutter%20%7C%20Mobile%20Software%20Engineer&descAlignY=55&descSize=18&stroke=00C2FF&strokeWidth=1" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="420" alt="Intro motion" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=90&lines=I+build+clean+Flutter+apps;Clean+Architecture+%2B+BLoC+%2B+Firebase;Simple+structure.+Production+mindset.;Pinned+repos+show+the+real+work+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000814,20:001D3D,55:005291,85:00A8E8,100:00C2FF&text=Youssef%20Ramadan&fontColor=ffffff&fontSize=56&fontAlignY=32&animation=twinkling&desc=Flutter%20%7C%20Mobile%20Software%20Engineer&descAlignY=52&descSize=20&stroke=7EF0FF&strokeWidth=1.2" width="100%" alt="Youssef Ramadan" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2300&pause=600&color=7EF0FF&center=true&vCenter=true&repeat=true&width=940&height=56&lines=I+build+clean+Flutter+apps;Clean+Architecture+%2B+BLoC+%2B+Firebase;Simple+structure.+Production+mindset.;Pinned+repos+show+the+real+work+%F0%9F%9A%80" alt="Hero typing animation" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon divider" />
 
 <br />
 
 <a href="https://youssefr1.github.io/Youssef-Portfolio-Website/">
-  <img src="https://img.shields.io/badge/Portfolio-005291?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/✦_Portfolio-001A33?style=for-the-badge&logo=vercel&logoColor=00C2FF" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/youssef-ramadan11/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/✦_LinkedIn-001A33?style=for-the-badge&logo=linkedin&logoColor=00C2FF" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:youssframa09@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/✦_Email-001A33?style=for-the-badge&logo=gmail&logoColor=00C2FF" alt="Email" />
 </a>
 
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=youssefr1&label=Profile%20views&color=00C2FF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Based_in-Cairo%2C_Egypt-005291?style=for-the-badge" alt="Cairo, Egypt" />
+<img src="https://img.shields.io/badge/Building-Flutter_Apps-00C2FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Apps" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:005291,100:00C2FF&height=6&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7EF0FF,40:00C2FF,70:005291,100:000814&height=8&section=header&animation=twinkling" width="100%" alt="Glow bar" />
 
 </div>
 
 <br />
 
-# 👋 About Me
-
-I am a **Flutter & Mobile Software Engineer** based in **Cairo, Egypt**.
-
-I build cross-platform mobile applications with a focus on **Clean Architecture**, **BLoC**, **responsive UI**, and **REST API integration**.
-
-I enjoy transforming ideas into scalable, maintainable mobile products while following clean coding principles and modern software engineering practices.
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90f7-c3e514e6cbe6.gif" width="80" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=96&color=0:000814,35:005291,100:00C2FF&text=ABOUT%20ME&fontColor=ffffff&fontSize=36&fontAlignY=52&animation=twinkling&stroke=7EF0FF&strokeWidth=1" width="100%" alt="About Me" />
 </div>
 
----
+<br />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&repeat=true&width=820&lines=Flutter+%26+Mobile+Software+Engineer;Based+in+Cairo%2C+Egypt;Clean+Architecture+%E2%80%A2+BLoC+%E2%80%A2+REST+APIs" alt="About typing animation" />
+</div>
+
+<br />
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=cylinder&height=118&color=0:001A33,100:00C2FF&text=Cairo&fontColor=ffffff&fontSize=28&fontAlignY=52&animation=twinkling" width="100%" alt="Cairo" />
+      <br/>
+      <img src="https://img.shields.io/badge/Location-Cairo%2C_Egypt-00C2FF?style=for-the-badge" alt="Location" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=cylinder&height=118&color=0:005291,100:7EF0FF&text=Flutter&fontColor=001A33&fontSize=28&fontAlignY=52&animation=blinking" width="100%" alt="Flutter" />
+      <br/>
+      <img src="https://img.shields.io/badge/Role-Mobile_Engineer-005291?style=for-the-badge&logo=flutter&logoColor=white" alt="Role" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=cylinder&height=118&color=0:000814,100:005291&text=Clean&fontColor=ffffff&fontSize=28&fontAlignY=52&animation=fadeIn" width="100%" alt="Clean Architecture" />
+      <br/>
+      <img src="https://img.shields.io/badge/Focus-BLoC_%2B_REST-001A33?style=for-the-badge" alt="Focus" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90f7-c3e514e6cbe6.gif" width="72" alt="About motion" />
+</div>
+
+<p align="center">
+  I am a <b>Flutter & Mobile Software Engineer</b> based in <b>Cairo, Egypt</b>.<br/><br/>
+  I build cross-platform mobile applications with a focus on <b>Clean Architecture</b>, <b>BLoC</b>, <b>responsive UI</b>, and <b>REST API integration</b>.<br/><br/>
+  I enjoy transforming ideas into scalable, maintainable mobile products while following clean coding principles and modern software engineering practices.
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:005291,100:00C2FF&height=4&section=header&animation=twinkling" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=88&color=0:001A33,50:005291,100:00C2FF&text=TECH%20STACK&fontColor=ffffff&fontSize=34&fontAlignY=52&animation=twinkling&stroke=00C2FF&strokeWidth=1" width="100%" alt="Tech Stack" />
