@@ -193,9 +193,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=youssefr1&show_icons=true&hide_border=true&bg_color=0D0221&title_color=20F6D4&icon_color=01BAEF&text_color=E6F6FF&ring_color=20F6D4&border_radius=16" height="175" alt="GitHub stats" />
+  <img src="https://github-stats-lemon.vercel.app/api?username=youssefr1&show_icons=true&hide_border=true&bg_color=0D0221&title_color=20F6D4&icon_color=01BAEF&text_color=E6F6FF&ring_color=20F6D4&border_radius=16" height="175" alt="GitHub stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=youssefr1&layout=compact&hide_border=true&bg_color=0D0221&title_color=20F6D4&text_color=E6F6FF&border_radius=16" height="175" alt="Top languages" />
+  <img src="https://github-stats-lemon.vercel.app/api/top-langs/?username=youssefr1&layout=compact&hide_border=true&bg_color=0D0221&title_color=20F6D4&text_color=E6F6FF&border_radius=16" height="175" alt="Top languages" />
 </div>
 
 <br/>
@@ -219,13 +219,13 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph-psi-one.vercel.app/graph?username=youssefr1&bg_color=0D0221&color=20F6D4&line=01BAEF&point=FF6B6B&area=true&area_color=0B4F6C&hide_border=true&radius=16" width="100%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/20F6D4/youssefr1" width="90%" alt="Contribution Chart" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=youssefr1&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=youssefr1&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
 </div>
 
 <div align="center">
